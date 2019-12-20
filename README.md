@@ -1,7 +1,7 @@
-# Ebay-Web-Scraper
-   The Ebay Web Scraper will take an input of an item by the user and generate metrics based on the first 50 search results on Ebay. 
-The user can either choose to filter their search results by price or item condition. Lastly, the URL to the best fitted item out of
-the first 50 items will be displayed for the user to travel to. 
+Scraper for Ebay
 
-   The item that is inputed does need to be very specific and will generate incorrect results if the searched item description is too
-obscure. 
+The scraper will fetch the first fifty listings of the desired item. The user has the choise to filter their results by price
+and item condition. Of those fifty listings, the mean price, seller positive feedback, and seller rating is outputed along with
+a histogram displaying the distribution. Lastly, the system will return a URL to the best item found within the fifty listings. 
+
+This scraper runs on Jupyter Notebook 
