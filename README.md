@@ -10,4 +10,8 @@ This scraper runs on Jupyter Notebook
 
 Below is an example run through of the program:
 
-![alt test](snapshots/Capture.PNG)
+![User Input](snapshots/Capture.PNG)
+
+![Price Histogram](snapshots/Capture2.PNG)
+
+![Generated Item URL](snapshots/Capture3.PNG)
