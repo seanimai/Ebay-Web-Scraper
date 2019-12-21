@@ -10,4 +10,4 @@ This scraper runs on Jupyter Notebook
 
 Below is an example run through of the program:
 
-![alt test](screenshots/Capture.PNG)
+![alt test](snapshots/Capture.PNG)
