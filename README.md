@@ -10,4 +10,4 @@ This scraper runs on Jupyter Notebook
 
 Below is an example run through of the program:
 
-![Alt text](C:\Users\imaia\Desktop\Intern Project\WebScrape\program_snapshots\Capture.PNG?raw=true "Title")
+![alt test](screenshots/Capture.PNG)
